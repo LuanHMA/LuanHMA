@@ -1,11 +1,12 @@
 # 👋 Olá, eu sou o Luan Henrique
 
-Sou Desenvolvedor Full Stack apaixonado por tecnologia e por transformar ideias em aplicações modernas, rápidas e funcionais.
+Sou Desenvolvedor Full Stack apaixonado por tecnologia, performance e construção de soluções que realmente geram valor.
 
-Tenho foco principal no ecossistema JavaScript/TypeScript, desenvolvendo interfaces intuitivas com React e Next.js, além de APIs escaláveis utilizando Node.js, Express e Fastify.
+Atuo no desenvolvimento de aplicações completas, modernas e escaláveis, unindo experiência em front-end e back-end para criar produtos rápidos, funcionais e com foco na melhor experiência do usuário.
 
-Gosto de criar projetos bem estruturados, com atenção à experiência do usuário, performance e qualidade de código.
+💻 Tenho experiência com JavaScript, TypeScript, React, Next.js, Node.js, Express, Fastify, TailwindCSS, MySQL e PostgreSQL, trabalhando com boas práticas de desenvolvimento, arquitetura organizada e versionamento com Git.
 
+🚀 Gosto de transformar ideias em aplicações intuitivas, performáticas e bem estruturadas, sempre buscando evolução constante, código limpo e soluções eficientes.
 
 ## 🚀 Tecnologias que utilizo
 
