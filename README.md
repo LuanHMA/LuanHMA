@@ -7,7 +7,7 @@ Tenho foco principal no ecossistema JavaScript/TypeScript, desenvolvendo interfa
 Gosto de criar projetos bem estruturados, com atenção à experiência do usuário, performance e qualidade de código.
 
 
-<div> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,fastify,mysql,postgres&perline=10" /> </div>
+<div> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mysql,postgres&perline=10" /> </div>
 
  <br>
  
