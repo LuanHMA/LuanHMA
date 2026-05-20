@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Luan Henrique
+# 👋 Olá, eu sou o Luan Henrique
 
 Sou Desenvolvedor Full Stack apaixonado por tecnologia e por transformar ideias em aplicações modernas, rápidas e funcionais.
 
@@ -6,6 +6,8 @@ Tenho foco principal no ecossistema JavaScript/TypeScript, desenvolvendo interfa
 
 Gosto de criar projetos bem estruturados, com atenção à experiência do usuário, performance e qualidade de código.
 
+
+## 🚀 Tecnologias que utilizo
 
 <div> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mysql,postgres&perline=10" /> </div>
 
