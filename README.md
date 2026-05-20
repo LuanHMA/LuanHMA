@@ -21,8 +21,10 @@ Gosto de criar projetos bem estruturados, com atenção à experiência do usuá
 🎯 Sistemas focados em experiência do usuário  
 🔧 Integrações entre front-end e back-end  
 
-## 🌎 Contato
+<a href="https://www.linkedin.com/in/luan-henrique-407822207/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="https://www.linkedin.com/in/luan-henrique-407822207/">LinkedIn</a>
-<a href="https://www.euluanhenrique.com.br/">Portifolio</a>
-
+<a href="https://www.euluanhenrique.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
