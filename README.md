@@ -1,7 +1,7 @@
 ### Olá, eu sou Luan Henrique, seja bem vindo!!
 
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,fastify,mysql,postgres&perline=5" /> </div>
+<div> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,fastify,mysql,postgres&perline=8" /> </div>
 
  <br>
  <div> 
