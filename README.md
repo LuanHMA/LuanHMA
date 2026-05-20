@@ -8,9 +8,12 @@ Atuo no desenvolvimento de aplicações completas, modernas e escaláveis, unind
 
 🚀 Gosto de transformar ideias em aplicações intuitivas, performáticas e bem estruturadas, sempre buscando evolução constante, código limpo e soluções eficientes.
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias e ferramentas que utilizo
 
-<div> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mysql,postgres&perline=10" /> </div>
+<div> <img 
+  height="90" 
+  src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,tailwind,figma,firebase,github,git,nodejs,nginx,postman,express,mysql,postgres&perline=15" 
+/> </div>
 
  <br>
 
@@ -23,7 +26,7 @@ Atuo no desenvolvimento de aplicações completas, modernas e escaláveis, unind
 🔧 Integrações entre front-end e back-end  
 
 <a href="https://www.linkedin.com/in/luan-henrique-407822207/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.euluanhenrique.com.br/" target="_blank">
